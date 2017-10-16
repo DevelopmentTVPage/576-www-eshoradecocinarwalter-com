@@ -7,10 +7,9 @@
         "adInterval": 0
     },
     "preload": false,
-    "type": "inline",
-    "title": "Cool",
-    "name": "cool",
-    "channelId": "117407965",
-    "layout": "bootstrap",
-    "autoplay": false
+    "type": "carousel",
+    "title": "dh",
+    "name": "dh",
+    "channelId": "117407961",
+    "layout": "bootstrap"
 }
