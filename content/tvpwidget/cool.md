@@ -12,5 +12,5 @@
     "name": "cool",
     "channelId": "117407965",
     "layout": "bootstrap",
-    "autoplay": true
+    "autoplay": false
 }
