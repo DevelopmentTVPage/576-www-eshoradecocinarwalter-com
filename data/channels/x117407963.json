@@ -1,0 +1,23 @@
+{
+    "title": "New nuevo",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1508175054",
+    "date_modified": "1508175059",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "117407963",
+    "loginId": "1759035",
+    "entityType": "3",
+    "titleTextEncoded": "New-nuevo",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}
