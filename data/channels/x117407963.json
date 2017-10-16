@@ -1,9 +1,9 @@
 {
-    "title": "New nuevo",
+    "title": "Chido",
     "description": "",
     "referenceId": null,
     "date_created": "1508175054",
-    "date_modified": "1508175059",
+    "date_modified": "1508187089",
     "tags": null,
     "sourceId": null,
     "status": "pending",
@@ -11,13 +11,14 @@
     "id": "117407963",
     "loginId": "1759035",
     "entityType": "3",
-    "titleTextEncoded": "New-nuevo",
+    "titleTextEncoded": "Chido",
     "category": null,
     "duration": null,
     "settings": {
         "canvasImage": "default_canvas3.jpg",
         "colorClass": "light",
-        "canvasType": "gallery"
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\r\n RE::videos(\r\n  RE::condition()\r\n   ->lastNDays(30)\r\n   ->order('dateCreated')\r\n )\r\n);"
     },
     "transcripts": null
 }
