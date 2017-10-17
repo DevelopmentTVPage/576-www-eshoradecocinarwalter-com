@@ -8,7 +8,7 @@
     },
     "preload": false,
     "type": "carousel",
-    "title": "Copy verification",
+    "title": "New Name",
     "name": "copy-verification",
     "channelId": "117407961",
     "layout": "bootstrap"
